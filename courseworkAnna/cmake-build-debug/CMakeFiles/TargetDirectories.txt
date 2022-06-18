@@ -1,0 +1,3 @@
+C:/Users/Admin/Desktop/Germany/programming/courseworkAnna/cmake-build-debug/CMakeFiles/courseworkAnna.dir
+C:/Users/Admin/Desktop/Germany/programming/courseworkAnna/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Desktop/Germany/programming/courseworkAnna/cmake-build-debug/CMakeFiles/rebuild_cache.dir
